@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+PyPDF2
+chromadb
+web3
+requests
