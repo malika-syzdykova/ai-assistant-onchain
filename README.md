@@ -120,5 +120,5 @@ The app uses `find_token_id()` to locate any coin listed on [CoinGecko](https://
 
 ## 🧠 Made by
 
-Developed by Malika Syzdykova | Astana IT University  
+Developed by Malika Syzdykova, Akan Zhansarin | Astana IT University  
 Group: SE-2322
